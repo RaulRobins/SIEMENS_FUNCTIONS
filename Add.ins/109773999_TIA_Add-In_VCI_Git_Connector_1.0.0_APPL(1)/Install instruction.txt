@@ -1,0 +1,2 @@
+Please copy the .addin-file into the "AddIns" folder of your TIA Portal installation path.
+Per default, it is C:\Program Files\Siemens\Automation\Portal V16\AddIns\
